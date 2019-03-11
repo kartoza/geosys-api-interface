@@ -1,2 +1,2 @@
-# geosys_api_interface
+# geosys-api-interface
 Be able to make use of the underlying python library used to communicate with the GEOSYS API.
